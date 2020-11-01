@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Why, hello there. Welcome to my 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒄𝒐𝒓𝒏𝒆𝒓. Are you a lost soul? Are you a stalker? Or are you a data mining bot employed by <s>the reptilian overload</s> Mark Zuckerberg? Whoever you are, it's nice to meet you. <img src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png" width="18" height="18" alt="Coffee Cat"/>
+Why, hello there. Welcome to my 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒄𝒐𝒓𝒏𝒆𝒓. Are you a lost soul? Are you a stalker? Or are you a data mining bot employed by Mark Zuckerberg? Whoever you are, it's nice to meet you. <img src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png" width="18" height="18" alt="Coffee Cat"/>
 <p>
 
 <p align="center">

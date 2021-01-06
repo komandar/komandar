@@ -21,7 +21,7 @@ Why, hello there. Welcome to my 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒄𝒐𝒓�
 ### Basic rundown
 - 💼 I work as a **Software Engineer**
 - 🌱 I am currently learning **Data Science**
-- 👯 I would love to collaborate on **Creating useful apps for the community**
+- 🙌 I would love to collaborate on **Creating useful apps for the community**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://komarev.com/ghpvc/?username=komandar&style=flat-square)
 &nbsp;![Website](https://img.shields.io/website?down_color=blue&down_message=offline&up_color=brightgreen&up_message=online&style=flat-square&url=https%3A%2F%2Fwww.tryface.de)

@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komandar&theme=darkhub&margin-w=8&margin-h=8&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=komandar&theme=darkhub&margin-w=2&margin-h=2&no-frame=true"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=komandar&count_private=true&theme=dark&show_icons=true"/>
   <br>

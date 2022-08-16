@@ -28,5 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=komandar&count_private=true&theme=dark&show_icons=true"/>
   <br>-->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komandar&layout=compact&hide=perl&langs_count=6&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komandar&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&hide=perl&langs_count=6"/>
 </p>
